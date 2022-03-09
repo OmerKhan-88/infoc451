@@ -19,7 +19,7 @@
 # Step 5: Paste all the images from the repository to the Images folder
 # Step 6: Paste all the “.Java” and “Form” files to the “studentdbms” folder. Both the “studentdbms” and “Images” folders should be located inside the “src” folder 
 # Step 7: Click run and choose Clean and Build Project
-3 Step 8: Once compiled successfully the application should work. 
-# ----------------------------------------------------------------
+# Step 8: Once compiled successfully the application should work. 
+# --------------------------------------------------------
 #This readme covers the running portion of the application. 
 
