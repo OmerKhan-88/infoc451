@@ -1,5 +1,5 @@
-
-# infoc451
+# Author: Omer Khan
+# infoc451-Project
 # Student Management System
 # README
 
